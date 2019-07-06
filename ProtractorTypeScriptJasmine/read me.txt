@@ -11,15 +11,15 @@ Please follow the below steps to configure the protractorTypescriptJasmine frame
 
 3.clone the project from:-      https://github.com/Tabish1991/QA-Assessment-Project.git 
 
-4.Add the project into the editor.
+4.Add the project into the editor and navigate to project directory using command line.
 
-5.Enter npm install  from the command prompt.
+5.Enter npm install
 
-6.Enter npm install -g typescript from the command prompt.
+6.Enter npm install -g typescript
 
-7.Enter webdriver-manager update from the command prompt.
+7.Enter webdriver-manager update 
 
-8.Enter webdriver-manager start from the command prompt.
+8.Enter webdriver-manager start 
 
 9.Enter npm run start  to run the project.
 
