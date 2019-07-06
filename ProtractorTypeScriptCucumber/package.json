@@ -1,0 +1,27 @@
+{
+  "name": "protractortypescriptcucumber",
+  "version": "1.0.0",
+  "description": "framework for protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor JSFiles/configuration.js",
+    "pretest": "tsc",
+    "protractor": "./node_modules/protractor/built/cli.js",
+    "webdriver-update": "./node_modules/.bin/webdriver-manager update"
+  },
+  "author": "Tabish Nasar",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.4.2",
+    "jasmine-data-provider": "^2.2.0",
+    "typescript": "^3.2.2",
+    "jasmine": "^3.4.0",
+    "@types/jasmine": "^3.3.13",
+    "@types/jasminewd2": "^2.0.6",
+    "ts-node": "^8.2.0",
+    "@types/node": "^12.0.7"
+  },
+  "devDependencies": {
+    "protractor-beautiful-reporter": "^1.2.8"
+  }
+}

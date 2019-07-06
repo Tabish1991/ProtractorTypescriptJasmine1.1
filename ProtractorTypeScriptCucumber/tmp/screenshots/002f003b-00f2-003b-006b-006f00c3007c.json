@@ -1,0 +1,1 @@
+{"description":"verify if user is able to login with an existing user|User Account Creation","passed":true,"pending":false,"os":"Windows NT","instanceId":6008,"browser":{"name":"chrome","version":"75.0.3770.100"},"message":"Passed.","trace":"","browserLogs":[],"screenShotFile":"002f003b-00f2-003b-006b-006f00c3007c.png","timestamp":1562373620751,"duration":33203}
