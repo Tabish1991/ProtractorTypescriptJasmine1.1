@@ -1,0 +1,37 @@
+
+This project is automated using protractor Typescript Jasmine framework.
+
+Please follow the below steps to configure the protractorTypescriptJasmine framework into the machine and run the script:-
+
+
+
+1.install node.js into the machine.
+
+2.set path of node.js into system variables.
+
+3.clone the project from:-      https://github.com/Tabish1991/QA-Assessment-Project.git 
+
+4.Add the project into the editor.
+
+5.Enter npm install  from the command prompt.
+
+6.Enter npm install -g typescript from the command prompt.
+
+7.Enter webdriver-manager update from the command prompt.
+
+8.Enter webdriver-manager start from the command prompt.
+
+9.Enter npm run start  to run the project.
+
+
+Import Note:- Before running the script,please change the email id of "emailCreate" and "email" from testdata.ts file  to run the script for  
+signup script successfully.(because we can signup with one email only once).
+
+
+Note:- microsoft visual studio is used as an editor for this project.
+
+
+
+
+
+
