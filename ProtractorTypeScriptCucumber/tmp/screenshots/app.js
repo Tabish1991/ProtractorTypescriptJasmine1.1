@@ -770,6 +770,40 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "00380022-003c-00e7-00b3-00cf00e8000a.png",
         "timestamp": 1562373911120,
         "duration": 7804
+    },
+    {
+        "description": "verify if user is able to create an account|User Account Creation",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 7096,
+        "browser": {
+            "name": "chrome",
+            "version": "75.0.3770.100"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00e400ec-00b5-0096-00d7-00e30091008e.png",
+        "timestamp": 1562376384015,
+        "duration": 39107
+    },
+    {
+        "description": "verify if user is able to login with an existing user|User Account Creation",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 7096,
+        "browser": {
+            "name": "chrome",
+            "version": "75.0.3770.100"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00ff0011-0023-0075-00bb-007300b700c1.png",
+        "timestamp": 1562376424951,
+        "duration": 33808
     }
 ];
 

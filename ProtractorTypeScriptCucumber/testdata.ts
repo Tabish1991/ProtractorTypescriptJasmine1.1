@@ -5,8 +5,8 @@ module.exports =
         {
             firstData:
             {
-                emailCreate: "alpha20@gmail.com",
-                email: "alpha20@gmail.com",
+                emailCreate: "alpha22@gmail.com",
+                email: "alpha22@gmail.com",
                 firstName: "Tabish",
                 lastName: "Nasar",
                 password: "7Iron-hide",
