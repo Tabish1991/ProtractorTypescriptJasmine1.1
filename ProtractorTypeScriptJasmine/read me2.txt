@@ -1,0 +1,11 @@
+I have completed the assessment and please find the below details:-
+Please find the below url for the github toclone the project from the repository :-  https://github.com/Tabish1991/QA-Assessment-Project
+
+1. Created a protractor typescript framework with BDD framework.
+2.Written the complete end to end test script for signup and signIn functionality for application: http://automationpractice.com/index.php
+3.Configured the tool for taking the screenshot for the failed test cases.
+4.Configured the tool for generating human readable report.
+6.Configured the run the script for  cross browser testing and in parallel mode.
+7.Created page object model.
+8. Reading test data from file for data driven testing.
+9.Added the "read me" file in the github with installation steps of the framework with all necessary details.

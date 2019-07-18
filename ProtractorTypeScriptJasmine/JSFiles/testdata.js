@@ -2,8 +2,8 @@ module.exports =
     {
         datadriven: {
             firstData: {
-                emailCreate: "alpha24@gmail.com",
-                email: "alpha24@gmail.com",
+                emailCreate: "alpha26@gmail.com",
+                email: "alpha26@gmail.com",
                 firstName: "Tabish",
                 lastName: "Nasar",
                 password: "7Iron-hide",

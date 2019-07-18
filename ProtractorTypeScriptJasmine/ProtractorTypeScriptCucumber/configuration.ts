@@ -16,7 +16,7 @@ export let config: Config = {
     // Spec patterns are relative to the configuration file location passed
     // to protractor (in this example conf.js).
     // They may include glob patterns.
-    specs: ['testspec.js'],
+    specs: ['loginspec.js'],
   
     // Options to be passed to Jasmine-node.
     jasmineNodeOpts: {
